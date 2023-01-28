@@ -1,1 +1,10 @@
 This is alpha project
+
+## sample command
+
+who
+date
+cal
+echo "This is the list of commands"
+id 
+useradd username
