@@ -5,7 +5,7 @@ This is beta project started..
 ##This lines are added to get this webserver working
 
 yum install httpd 
-echo "This is page on the webserver" > /var/index.html
+echo "This is webpage" > /var/html/index.html
 
 systemctl restart
 
